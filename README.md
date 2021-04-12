@@ -2,3 +2,4 @@
 - 👀 pen-tester | OSCP | hacker | HTB player
 - 🌱 I’m currently learning bug-bounty-hunting and Red Team
 - 💞️ I’m looking to collaborate on developing auto pen-test tools
+- 📝 My blog:https://blog.lvdch.icu

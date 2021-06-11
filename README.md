@@ -8,4 +8,4 @@ Currently learning bug-bounty-hunting and Red Team
 looking for internship jobs about infosec in Beijing or Hangzhou  
 E-mail address: 992426347[AT]qq.com  
 
-![Hack The Box](http://www.hackthebox.eu/badge/image/444941>
+![Hack The Box](http://www.hackthebox.eu/badge/image/444941)

@@ -1,6 +1,6 @@
 # Hi, I’m @NorthShad0w
 ## Certifications:
-**OSCP**
+**OSCP** **OSWE**
 
 Junior student in Beijing(will graduate in 2023)  
 CTF & pen-test enthusiast  

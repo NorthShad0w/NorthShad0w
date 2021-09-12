@@ -2,9 +2,10 @@
 ## Certifications:
 **OSCP** **OSWE**  
 
-Learn for hack  
-Hack for fun  
+Learn for code    
 Code for hack  
+Hack for fun  
+
 
 ❤Love *nix  
 ✏Write code in python, go, rust, c and c#  
